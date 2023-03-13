@@ -3,3 +3,14 @@ The purpose of this project was writing an algorithm that reads numbers from a f
 - This project works from the cmd
 - The input will be taken from an input file
 - The output will be shown in the cmd
+
+This project teaches us the following:
+- Use the code from the cmd
+- Usage of files
+- Usage of pointers
+- Trees
+- Performance differences
+- Function prototypes
+- Nested loops
+- Recursion
+- Keeping track of your program
